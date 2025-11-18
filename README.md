@@ -1,4 +1,4 @@
-# Rabin-Karp algorithm
+# Rabin-Karp Algorithm
 
 ## Computational Problem
 The Rabin-Karp algorithm solves the string pattern matching problem. Given a text and a pattern, it determines if the pattern occurs in the text and returns the index or indices of where the pattern occurs. It uses hashing to compare the substrings.
