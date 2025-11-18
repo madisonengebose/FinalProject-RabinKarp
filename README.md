@@ -8,9 +8,13 @@ Plagiarism Detection – Rabin-Karp can compare documents by hashing sequences o
 
 ## Asymptotic Time Complexity
 **Worst Case:** O(nm)
+
 **Average Case:** O(n + m)
+
 Where:
+
 n: length of the text
+
 m: length of the pattern
 
 ## Other Algorithms
