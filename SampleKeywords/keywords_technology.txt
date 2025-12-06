@@ -1,0 +1,63 @@
+api key
+access token
+secret key
+password
+credentials
+share login
+send password
+hardcoded secret
+github token
+aws key
+private key
+ssh key
+send repo
+copy repository
+download source
+take the code
+clone repo
+private repository
+leak code
+pastebin
+personal github
+external github
+screenshot code
+zip the project
+send the project
+push to personal
+transfer files
+upload externally
+personal drive
+google drive
+dropbox
+external drive
+usb transfer
+move to usb
+email the files
+send outside
+forward externally
+bypass security
+disable logging
+delete logs
+erase history
+cover this up
+don’t report this
+off the record
+use your own laptop
+personal device
+backdoor
+bypass auth
+temporary access
+admin override
+escalate privileges
+root access
+sudo access
+database dump
+export database
+dump prod
+production data
+customer data
+user data
+pii
+ssn
+credit card
+payment info

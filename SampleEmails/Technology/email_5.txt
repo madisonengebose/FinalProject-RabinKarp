@@ -1,0 +1,7 @@
+Subject: Temporary Admin Access
+
+I’ll need temporary root access to the server to apply the patch tonight. Once I’m done, I’ll disable logging so it doesn’t generate extra alerts.
+
+Let’s keep this off the record.
+
+- Brian

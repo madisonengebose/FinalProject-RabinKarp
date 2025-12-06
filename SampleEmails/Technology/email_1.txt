@@ -1,0 +1,8 @@
+Subject: Quick Access for Testing
+
+Hey Jason,
+
+Can you send me the API key and access token for the staging environment? I need to test something locally tonight. Just email the files to my personal account so I can access them from home.
+
+Thanks,
+Megan

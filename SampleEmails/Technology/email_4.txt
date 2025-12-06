@@ -1,0 +1,8 @@
+Subject: Code Review Schedule
+
+Team,
+
+Please remember to submit your feature branches for code review by Thursday afternoon. All changes must go through the standard pull request process before merging into main.
+
+Thanks,
+Engineering Manager

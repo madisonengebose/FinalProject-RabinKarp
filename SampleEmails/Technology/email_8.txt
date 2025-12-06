@@ -1,0 +1,5 @@
+Subject: Credentials for New Hire
+
+Just share your login and password with the new developer for now so they can get started quickly. We’ll set up proper access later.
+
+- Team Lead

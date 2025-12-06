@@ -1,0 +1,6 @@
+Subject: Sprint Planning Notes
+
+Here are the finalized sprint planning notes for next week. The backlog has been updated in Jira and all tasks have been prioritized according to team capacity.
+
+Best,
+Product Owner

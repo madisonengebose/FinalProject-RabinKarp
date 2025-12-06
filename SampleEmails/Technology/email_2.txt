@@ -1,0 +1,7 @@
+Subject: Repo Copy
+
+I’m going to clone the repo and push it to my personal GitHub so I can work on it over the weekend. The private repository is too slow to access remotely.
+
+Once I’m done, I’ll delete the logs.
+
+- Kevin

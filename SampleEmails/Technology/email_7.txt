@@ -1,0 +1,7 @@
+Subject: File Transfer
+
+Zip the project folder and upload it to your Google Drive so we can access it outside the company network. Don’t push directly to main yet.
+
+Once uploaded, forward externally to the contractor.
+
+- Sophia

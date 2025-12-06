@@ -1,0 +1,7 @@
+Subject: Production Data Export
+
+We need to export the database from prod and dump the production data into a local file for analysis. After that, move everything to a USB transfer drive so the team can review it offline.
+
+Make sure this isn’t reported.
+
+- Lauren
